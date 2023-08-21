@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-08-21T06:18:24.882466Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2023-08-21T06:19:01.0271998Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "fb87558d-5595-4295-b4fc-77698bff9bbb"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TareasMVC"
+    }
+  }
+}

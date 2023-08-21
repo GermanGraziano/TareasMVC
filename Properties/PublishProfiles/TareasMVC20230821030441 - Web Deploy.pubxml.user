@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJeBOYvjTA0eukC3ukpCe1wAAAAACAAAAAAAQZgAAAAEAACAAAAA+4DKLdN7s3m5Vw9OkcOR7HfhPX6jNixNGQIgDN1jQAQAAAAAOgAAAAAIAACAAAADjMUg/owcubdTbXvez6n3fVuteExV4J8fygZDuwaugKoAAAACHtQvY5OZYVx0flk+XoyiYp5F4RanieWyuzDo0DSklDMBLIoSmUD+yjwWF2W59XNQUen0XkXUgqk6+ukNyJnpiYbVoZv6wTe7hTXIeSNEhZUjJ8qtDZwVc34ez0KLIJhtoGQTDuFGqR0YHgbCCQCTftpDb3P9UIUATvZUY5yLrlUAAAAAcYt8D12l4c+Wlk0YUzBcnOF/Nw8XapPN3rsmkHHRAdSE967dInfyXGsMQYOM1IFIA2MlfRdUXULkaC1rGFXbW</EncryptedPassword>
+    <History>True|2023-08-21T12:11:33.4033286Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="TareasMVC.ApplicationDbContext">
+      <Value>Data Source=tcp:tareasmvcdbsv.database.windows.net,1433%3bInitial Catalog=TareasMVC_db%3bUser Id=germangg%40tareasmvcdbsv%3bPassword=hrt,sm.BDtareas</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
